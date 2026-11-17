@@ -1,0 +1,12 @@
+
+requests
+python-dotenv
+pymupdf
+chromadb
+fastapi
+uvicorn
+streamlit
+pandas
+pytest
+python-multipart
+ddgs
